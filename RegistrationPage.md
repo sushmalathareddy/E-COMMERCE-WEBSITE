@@ -110,11 +110,3 @@ if (isset($_POST['register'])) {
     }
 }
 ?>
-Step 4: Test the Registration Page
-Start your local server.
-Navigate to http://localhost/ecommerce/pages/register.php.
-Register using an email and password.
-Check the users table in your database to ensure the new user has been added.
-Next Steps:
-Build the Login Page (login.php) for user authentication.
-Implement session management to maintain user sessions.
